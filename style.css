@@ -52,12 +52,14 @@ nav li {
 h1 {
     font-family: 'Clicker Script', cursive;
     padding: 30px;
-    background: #2c3427;
-    color: #fff;
+    background: #222;
+    color: #f4ddda;
     text-align: center;
     font-size: 50px;
     margin-top: 10px;
     margin-left: -50px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
 }
 
 h2 {
