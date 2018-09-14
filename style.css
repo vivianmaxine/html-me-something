@@ -53,10 +53,10 @@ h1 {
     padding: 30px;
     background: #2c3427;
     color: #fff;
-    #border: 3px solid #f2e0de;
-    border-radius: 10px;
     text-align: center;
     font-size: 50px;
+    margin-top: 10px;
+    margin-left: -50px;
 }
 
 h2 {
