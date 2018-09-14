@@ -30,11 +30,12 @@ a:hover {
 img {
     width: 100%;
     height: auto;
+    padding-top: 25px;
 }
 
 main {
     margin: -10px 100px 0px 400px;
-    padding: 25px 50px;
+    padding: 25px 50px 35px 50px;
     background: #e20c0a;
     box-shadow: 5px 5px 20px #555;
 }
@@ -71,6 +72,13 @@ h1 {
 h2 {
     #color: #fff;
     font-weight: 800;
+}
+
+.caption {
+    font-size: 14px;
+    font-weight: 800;
+    padding-bottom: 25px;
+    text-align: center;
 }
 
 footer {
