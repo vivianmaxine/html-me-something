@@ -1,0 +1,65 @@
+body {
+
+    background: #fff;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #fff;
+    background-image: url("img/raspberries.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+a:link, a:visited {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+
+a:active {
+    color: #e20c0a;
+}
+
+a:hover {
+    background: #e57875;
+    color: #fff;
+}
+
+main {
+    margin: 25px 100px 25px 400px;
+    padding: 25px 50px;
+    background: #e20c0a;
+    box-shadow: 5px 5px 20px #555;
+}
+
+ul {
+    display: block;
+}
+
+
+nav li {
+    list-style-type: none;
+    display: block;
+}
+
+
+h1 {
+    font-family: 'Clicker Script', cursive;
+    padding: 30px;
+    background: #2c3427;
+    color: #fff;
+    #border: 3px solid #f2e0de;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    #color: #fff;
+    font-weight: 800;
+}
+
+footer {
+    padding: 50px;
+    text-align: center;
+}
