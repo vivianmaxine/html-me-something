@@ -6,6 +6,7 @@ body {
     background-image: url("img/raspberries.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
+    margin: 0;
 }
 
 a:link, a:visited {
@@ -68,7 +69,8 @@ h2 {
 }
 
 footer {
-    padding: 50px;
+    padding: 25px;
     text-align: center;
-    color: #333;
+    color: #aaa;
+    background: #222;
 }
